@@ -30,7 +30,7 @@ body{
 	color: #ff471a;
 }
 .banner-img{
-	background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(38, 38, 38, 0.4)), url("banner-home.jpg");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(38, 38, 38, 0.4)), url("img/banner-home.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -100,7 +100,7 @@ body{
 
 }
 .about-img{
-	background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("about-img.jpg");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("img/about-img.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -143,7 +143,7 @@ body{
 
 }
 .team{
-	background-image: linear-gradient(rgba(255, 71, 26, 0.8), rgba(255, 71, 26, 0.8)), url("about-img.jpg");
+	background-image: linear-gradient(rgba(255, 71, 26, 0.8), rgba(255, 71, 26, 0.8)), url("img/about-img.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
